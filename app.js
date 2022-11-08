@@ -3,3 +3,5 @@ console.log('Hello')
 //64895e4
 
 // el suprimo
+
+if (true) console.log('Hello')
